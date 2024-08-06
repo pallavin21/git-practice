@@ -49,7 +49,7 @@ y = np.sin(x)
 f = plt.plot(x,y)
 ``` 
 
-Make sure to save the resulting notebook. 
+Make sure to save the resulting notebook. ....
 
 ## 6. Add and Commit
 
